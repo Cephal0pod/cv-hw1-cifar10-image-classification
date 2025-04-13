@@ -93,9 +93,9 @@ with open('best_model.pkl', 'rb') as f:
 
 ### 3. Download Pre-trained Model (Optional)
 
-For your convenience, you can upload your pre-trained model to Google Drive or Baidu Cloud and share the download link in the `README.md`. Example:
+For your convenience, you can download my pre-trained model from Google Drive.
 
-- [Download model weights from Google Drive](https://drive.google.com/your-model-weights-link)
+- [Download model weights from Google Drive](https://drive.google.com/file/d/14kuJ0wIyZffxzAirXozzlna31PFh9lOr/view?usp=sharing)
 
 ## Results
 
