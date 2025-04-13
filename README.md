@@ -101,7 +101,7 @@ For your convenience, you can download my pre-trained model from Google Drive.
 
 The model achieved the following performance on the test set:
 
-- **Test Accuracy**: (To be filled with the actual result)
+- **Test Accuracy**: 0.4486
 
 ## License
 
